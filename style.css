@@ -1,0 +1,26 @@
+.textbox {
+  border-style:solid;
+  border-color:black;
+  width:500px;
+  height:25px;
+}
+
+.center {
+  text-align:center;
+}
+
+.big {
+  font-size:20px;
+}
+
+.desc {
+  color:#5b5f64;
+}
+
+.bold {
+  font-weight:bold;
+}
+
+.small {
+  font-size:15px;
+}
